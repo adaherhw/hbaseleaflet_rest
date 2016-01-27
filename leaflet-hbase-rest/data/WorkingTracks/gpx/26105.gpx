@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+ version="1.0"
+creator="GPSBabel - http://www.gpsbabel.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2007-06-15T01:56:24Z</time>
+<bounds minlat="41.357246652" minlon="-81.868453305" maxlat="41.395054986" maxlon="-81.855806638"/>
+<wpt lat="41.392621652" lon="-81.868181638">
+  <ele>246.200000</ele>
+<time>2007-06-14T20:51:33Z</time>
+  <name>WP0001</name>
+  <cmt>WP0001</cmt>
+  <desc>WP0001</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.392729986" lon="-81.868094972">
+  <ele>246.200000</ele>
+<time>2007-06-14T20:51:44Z</time>
+  <name>WP0002</name>
+  <cmt>WP0002</cmt>
+  <desc>WP0002</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394224986" lon="-81.867326638">
+  <ele>246.700000</ele>
+<time>2007-06-14T20:52:08Z</time>
+  <name>WP0003</name>
+  <cmt>WP0003</cmt>
+  <desc>WP0003</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394996652" lon="-81.867048305">
+  <ele>242.700000</ele>
+<time>2007-06-14T20:52:21Z</time>
+  <name>WP0004</name>
+  <cmt>WP0004</cmt>
+  <desc>WP0004</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.395054986" lon="-81.867139972">
+  <ele>242.300000</ele>
+<time>2007-06-14T20:52:25Z</time>
+  <name>WP0005</name>
+  <cmt>WP0005</cmt>
+  <desc>WP0005</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.395048319" lon="-81.867266638">
+  <ele>242.100000</ele>
+<time>2007-06-14T20:52:29Z</time>
+  <name>WP0006</name>
+  <cmt>WP0006</cmt>
+  <desc>WP0006</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394953319" lon="-81.867321638">
+  <ele>241.700000</ele>
+<time>2007-06-14T20:52:33Z</time>
+  <name>WP0007</name>
+  <cmt>WP0007</cmt>
+  <desc>WP0007</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394859986" lon="-81.867238305">
+  <ele>241.100000</ele>
+<time>2007-06-14T20:52:37Z</time>
+  <name>WP0008</name>
+  <cmt>WP0008</cmt>
+  <desc>WP0008</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394706652" lon="-81.867141638">
+  <ele>241.000000</ele>
+<time>2007-06-14T20:52:42Z</time>
+  <name>WP0009</name>
+  <cmt>WP0009</cmt>
+  <desc>WP0009</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.394606652" lon="-81.867179972">
+  <ele>241.100000</ele>
+<time>2007-06-14T20:52:44Z</time>
+  <name>WP0010</name>
+  <cmt>WP0010</cmt>
+  <desc>WP0010</desc>
+  <pdop>1.700000</pdop>
+</wpt>
+<wpt lat="41.393508319" lon="-81.867578305">
+  <ele>244.600000</ele>
+<time>2007-06-14T20:53:02Z</time>
+  <name>WP0011</name>
+  <cmt>WP0011</cmt>
+  <desc>WP0011</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393448319" lon="-81.867418305">
+  <ele>243.800000</ele>
+<time>2007-06-14T20:53:05Z</time>
+  <name>WP0012</name>
+  <cmt>WP0012</cmt>
+  <desc>WP0012</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393341652" lon="-81.866503305">
+  <ele>242.400000</ele>
+<time>2007-06-14T20:53:17Z</time>
+  <name>WP0013</name>
+  <cmt>WP0013</cmt>
+  <desc>WP0013</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393273319" lon="-81.865661638">
+  <ele>243.100000</ele>
+<time>2007-06-14T20:53:28Z</time>
+  <name>WP0014</name>
+  <cmt>WP0014</cmt>
+  <desc>WP0014</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393153319" lon="-81.865633305">
+  <ele>243.300000</ele>
+<time>2007-06-14T20:53:31Z</time>
+  <name>WP0015</name>
+  <cmt>WP0015</cmt>
+  <desc>WP0015</desc>
+  <pdop>1.700000</pdop>
+</wpt>
+<wpt lat="41.391536652" lon="-81.865714972">
+  <ele>244.800000</ele>
+<time>2007-06-14T20:53:55Z</time>
+  <name>WP0016</name>
+  <cmt>WP0016</cmt>
+  <desc>WP0016</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391199986" lon="-81.865804972">
+  <ele>244.800000</ele>
+<time>2007-06-14T20:54:02Z</time>
+  <name>WP0017</name>
+  <cmt>WP0017</cmt>
+  <desc>WP0017</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391161652" lon="-81.865956638">
+  <ele>244.700000</ele>
+<time>2007-06-14T20:54:08Z</time>
+  <name>WP0018</name>
+  <cmt>WP0018</cmt>
+  <desc>WP0018</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391199986" lon="-81.866093305">
+  <ele>244.700000</ele>
+<time>2007-06-14T20:54:10Z</time>
+  <name>WP0019</name>
+  <cmt>WP0019</cmt>
+  <desc>WP0019</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391324986" lon="-81.867806638">
+  <ele>245.300000</ele>
+<time>2007-06-14T20:54:28Z</time>
+  <name>WP0020</name>
+  <cmt>WP0020</cmt>
+  <desc>WP0020</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391416652" lon="-81.867973305">
+  <ele>246.000000</ele>
+<time>2007-06-14T20:54:39Z</time>
+  <name>WP0021</name>
+  <cmt>WP0021</cmt>
+  <desc>WP0021</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391543319" lon="-81.868031638">
+  <ele>246.000000</ele>
+<time>2007-06-14T20:54:41Z</time>
+  <name>WP0022</name>
+  <cmt>WP0022</cmt>
+  <desc>WP0022</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.392463319" lon="-81.868453305">
+  <ele>246.400000</ele>
+<time>2007-06-14T20:54:53Z</time>
+  <name>WP0023</name>
+  <cmt>WP0023</cmt>
+  <desc>WP0023</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.392561652" lon="-81.868338305">
+  <ele>246.800000</ele>
+<time>2007-06-14T20:54:55Z</time>
+  <name>WP0024</name>
+  <cmt>WP0024</cmt>
+  <desc>WP0024</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393493319" lon="-81.867494972">
+  <ele>244.400000</ele>
+<time>2007-06-14T20:55:10Z</time>
+  <name>WP0025</name>
+  <cmt>WP0025</cmt>
+  <desc>WP0025</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393466652" lon="-81.867333305">
+  <ele>244.100000</ele>
+<time>2007-06-14T20:55:12Z</time>
+  <name>WP0026</name>
+  <cmt>WP0026</cmt>
+  <desc>WP0026</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393319986" lon="-81.864933305">
+  <ele>244.200000</ele>
+<time>2007-06-14T20:55:36Z</time>
+  <name>WP0027</name>
+  <cmt>WP0027</cmt>
+  <desc>WP0027</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393258319" lon="-81.864496638">
+  <ele>244.900000</ele>
+<time>2007-06-14T20:55:42Z</time>
+  <name>WP0028</name>
+  <cmt>WP0028</cmt>
+  <desc>WP0028</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393171652" lon="-81.864463305">
+  <ele>245.100000</ele>
+<time>2007-06-14T20:55:44Z</time>
+  <name>WP0029</name>
+  <cmt>WP0029</cmt>
+  <desc>WP0029</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391761652" lon="-81.864528305">
+  <ele>246.500000</ele>
+<time>2007-06-14T20:56:06Z</time>
+  <name>WP0030</name>
+  <cmt>WP0030</cmt>
+  <desc>WP0030</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389968319" lon="-81.864624972">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:56:35Z</time>
+  <name>WP0031</name>
+  <cmt>WP0031</cmt>
+  <desc>WP0031</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389856652" lon="-81.864549972">
+  <ele>248.700000</ele>
+<time>2007-06-14T20:56:48Z</time>
+  <name>WP0032</name>
+  <cmt>WP0032</cmt>
+  <desc>WP0032</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389838319" lon="-81.864414972">
+  <ele>248.600000</ele>
+<time>2007-06-14T20:56:50Z</time>
+  <name>WP0033</name>
+  <cmt>WP0033</cmt>
+  <desc>WP0033</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389861652" lon="-81.863431638">
+  <ele>248.000000</ele>
+<time>2007-06-14T20:57:01Z</time>
+  <name>WP0034</name>
+  <cmt>WP0034</cmt>
+  <desc>WP0034</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389949986" lon="-81.863368305">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:57:03Z</time>
+  <name>WP0035</name>
+  <cmt>WP0035</cmt>
+  <desc>WP0035</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.390074986" lon="-81.863359972">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:57:05Z</time>
+  <name>WP0036</name>
+  <cmt>WP0036</cmt>
+  <desc>WP0036</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.392274986" lon="-81.863281638">
+  <ele>246.600000</ele>
+<time>2007-06-14T20:57:37Z</time>
+  <name>WP0037</name>
+  <cmt>WP0037</cmt>
+  <desc>WP0037</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393404986" lon="-81.863278305">
+  <ele>246.800000</ele>
+<time>2007-06-14T20:57:59Z</time>
+  <name>WP0038</name>
+  <cmt>WP0038</cmt>
+  <desc>WP0038</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393399986" lon="-81.863408305">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:02Z</time>
+  <name>WP0039</name>
+  <cmt>WP0039</cmt>
+  <desc>WP0039</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393334986" lon="-81.863548305">
+  <ele>246.900000</ele>
+<time>2007-06-14T20:58:05Z</time>
+  <name>WP0040</name>
+  <cmt>WP0040</cmt>
+  <desc>WP0040</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393328319" lon="-81.863691638">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:07Z</time>
+  <name>WP0041</name>
+  <cmt>WP0041</cmt>
+  <desc>WP0041</desc>
+  <pdop>1.800000</pdop>
+</wpt>
+<wpt lat="41.393319986" lon="-81.864543305">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:19Z</time>
+  <name>WP0042</name>
+  <cmt>WP0042</cmt>
+  <desc>WP0042</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393294986" lon="-81.864391638">
+  <ele>246.500000</ele>
+<time>2007-06-14T20:58:24Z</time>
+  <name>WP0043</name>
+  <cmt>WP0043</cmt>
+  <desc>WP0043</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393216652" lon="-81.863296638">
+  <ele>245.900000</ele>
+<time>2007-06-14T20:58:40Z</time>
+  <name>WP0044</name>
+  <cmt>WP0044</cmt>
+  <desc>WP0044</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.393116652" lon="-81.863266638">
+  <ele>246.100000</ele>
+<time>2007-06-14T20:58:42Z</time>
+  <name>WP0045</name>
+  <cmt>WP0045</cmt>
+  <desc>WP0045</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391616652" lon="-81.863301638">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:06Z</time>
+  <name>WP0046</name>
+  <cmt>WP0046</cmt>
+  <desc>WP0046</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391568319" lon="-81.863126638">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:59:09Z</time>
+  <name>WP0047</name>
+  <cmt>WP0047</cmt>
+  <desc>WP0047</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391538319" lon="-81.861536638">
+  <ele>248.000000</ele>
+<time>2007-06-14T20:59:26Z</time>
+  <name>WP0048</name>
+  <cmt>WP0048</cmt>
+  <desc>WP0048</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391626652" lon="-81.861458305">
+  <ele>247.800000</ele>
+<time>2007-06-14T20:59:29Z</time>
+  <name>WP0049</name>
+  <cmt>WP0049</cmt>
+  <desc>WP0049</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391658319" lon="-81.861584972">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:33Z</time>
+  <name>WP0050</name>
+  <cmt>WP0050</cmt>
+  <desc>WP0050</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391593319" lon="-81.861681638">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:36Z</time>
+  <name>WP0051</name>
+  <cmt>WP0051</cmt>
+  <desc>WP0051</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391581652" lon="-81.861829972">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:59:39Z</time>
+  <name>WP0052</name>
+  <cmt>WP0052</cmt>
+  <desc>WP0052</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391546652" lon="-81.862051638">
+  <ele>247.900000</ele>
+<time>2007-06-14T20:59:43Z</time>
+  <name>WP0053</name>
+  <cmt>WP0053</cmt>
+  <desc>WP0053</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391464986" lon="-81.862103305">
+  <ele>247.900000</ele>
+<time>2007-06-14T20:59:45Z</time>
+  <name>WP0054</name>
+  <cmt>WP0054</cmt>
+  <desc>WP0054</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.391358319" lon="-81.862101638">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:59:47Z</time>
+  <name>WP0055</name>
+  <cmt>WP0055</cmt>
+  <desc>WP0055</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.389918319" lon="-81.862173305">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:00:09Z</time>
+  <name>WP0056</name>
+  <cmt>WP0056</cmt>
+  <desc>WP0056</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.388521652" lon="-81.862258305">
+  <ele>246.600000</ele>
+<time>2007-06-14T21:00:40Z</time>
+  <name>WP0057</name>
+  <cmt>WP0057</cmt>
+  <desc>WP0057</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.388401652" lon="-81.862359972">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:00:42Z</time>
+  <name>WP0058</name>
+  <cmt>WP0058</cmt>
+  <desc>WP0058</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.387718319" lon="-81.863428305">
+  <ele>246.200000</ele>
+<time>2007-06-14T21:00:57Z</time>
+  <name>WP0059</name>
+  <cmt>WP0059</cmt>
+  <desc>WP0059</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.387608319" lon="-81.863494972">
+  <ele>246.700000</ele>
+<time>2007-06-14T21:01:01Z</time>
+  <name>WP0060</name>
+  <cmt>WP0060</cmt>
+  <desc>WP0060</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.387496652" lon="-81.863441638">
+  <ele>246.600000</ele>
+<time>2007-06-14T21:01:03Z</time>
+  <name>WP0061</name>
+  <cmt>WP0061</cmt>
+  <desc>WP0061</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.386178319" lon="-81.862879972">
+  <ele>246.400000</ele>
+<time>2007-06-14T21:01:15Z</time>
+  <name>WP0062</name>
+  <cmt>WP0062</cmt>
+  <desc>WP0062</desc>
+  <pdop>1.800000</pdop>
+</wpt>
+<wpt lat="41.383929986" lon="-81.862268305">
+  <ele>247.400000</ele>
+<time>2007-06-14T21:01:33Z</time>
+  <name>WP0063</name>
+  <cmt>WP0063</cmt>
+  <desc>WP0063</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.382781652" lon="-81.861679972">
+  <ele>245.600000</ele>
+<time>2007-06-14T21:01:43Z</time>
+  <name>WP0064</name>
+  <cmt>WP0064</cmt>
+  <desc>WP0064</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.381666652" lon="-81.860523305">
+  <ele>242.500000</ele>
+<time>2007-06-14T21:01:54Z</time>
+  <name>WP0065</name>
+  <cmt>WP0065</cmt>
+  <desc>WP0065</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.380338319" lon="-81.858879972">
+  <ele>238.600000</ele>
+<time>2007-06-14T21:02:13Z</time>
+  <name>WP0066</name>
+  <cmt>WP0066</cmt>
+  <desc>WP0066</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.380246652" lon="-81.858863305">
+  <ele>240.400000</ele>
+<time>2007-06-14T21:02:36Z</time>
+  <name>WP0067</name>
+  <cmt>WP0067</cmt>
+  <desc>WP0067</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.380136652" lon="-81.858958305">
+  <ele>240.800000</ele>
+<time>2007-06-14T21:02:38Z</time>
+  <name>WP0068</name>
+  <cmt>WP0068</cmt>
+  <desc>WP0068</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.379393319" lon="-81.860259972">
+  <ele>245.400000</ele>
+<time>2007-06-14T21:02:48Z</time>
+  <name>WP0069</name>
+  <cmt>WP0069</cmt>
+  <desc>WP0069</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.377986652" lon="-81.862758305">
+  <ele>242.400000</ele>
+<time>2007-06-14T21:03:04Z</time>
+  <name>WP0070</name>
+  <cmt>WP0070</cmt>
+  <desc>WP0070</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.377266652" lon="-81.863799972">
+  <ele>240.300000</ele>
+<time>2007-06-14T21:03:12Z</time>
+  <name>WP0071</name>
+  <cmt>WP0071</cmt>
+  <desc>WP0071</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.377144986" lon="-81.863846638">
+  <ele>240.000000</ele>
+<time>2007-06-14T21:03:13Z</time>
+  <name>WP0072</name>
+  <cmt>WP0072</cmt>
+  <desc>WP0072</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.376764986" lon="-81.863813305">
+  <ele>239.600000</ele>
+<time>2007-06-14T21:03:16Z</time>
+  <name>WP0073</name>
+  <cmt>WP0073</cmt>
+  <desc>WP0073</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.376323319" lon="-81.863546638">
+  <ele>240.400000</ele>
+<time>2007-06-14T21:03:20Z</time>
+  <name>WP0074</name>
+  <cmt>WP0074</cmt>
+  <desc>WP0074</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.375844986" lon="-81.863108305">
+  <ele>239.400000</ele>
+<time>2007-06-14T21:03:33Z</time>
+  <name>WP0075</name>
+  <cmt>WP0075</cmt>
+  <desc>WP0075</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.375864986" lon="-81.862983305">
+  <ele>239.300000</ele>
+<time>2007-06-14T21:03:35Z</time>
+  <name>WP0076</name>
+  <cmt>WP0076</cmt>
+  <desc>WP0076</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.376391652" lon="-81.861853305">
+  <ele>243.400000</ele>
+<time>2007-06-14T21:03:54Z</time>
+  <name>WP0077</name>
+  <cmt>WP0077</cmt>
+  <desc>WP0077</desc>
+  <pdop>1.800000</pdop>
+</wpt>
+<wpt lat="41.376289986" lon="-81.861748305">
+  <ele>243.700000</ele>
+<time>2007-06-14T21:03:57Z</time>
+  <name>WP0078</name>
+  <cmt>WP0078</cmt>
+  <desc>WP0078</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.374878319" lon="-81.860854972">
+  <ele>244.900000</ele>
+<time>2007-06-14T21:04:16Z</time>
+  <name>WP0079</name>
+  <cmt>WP0079</cmt>
+  <desc>WP0079</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.373036652" lon="-81.859659972">
+  <ele>245.200000</ele>
+<time>2007-06-14T21:04:50Z</time>
+  <name>WP0080</name>
+  <cmt>WP0080</cmt>
+  <desc>WP0080</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.372918319" lon="-81.859576638">
+  <ele>243.600000</ele>
+<time>2007-06-14T21:05:05Z</time>
+  <name>WP0081</name>
+  <cmt>WP0081</cmt>
+  <desc>WP0081</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.372898319" lon="-81.859449972">
+  <ele>243.400000</ele>
+<time>2007-06-14T21:05:08Z</time>
+  <name>WP0082</name>
+  <cmt>WP0082</cmt>
+  <desc>WP0082</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.372778319" lon="-81.857021638">
+  <ele>241.700000</ele>
+<time>2007-06-14T21:05:34Z</time>
+  <name>WP0083</name>
+  <cmt>WP0083</cmt>
+  <desc>WP0083</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.372668319" lon="-81.855843305">
+  <ele>243.100000</ele>
+<time>2007-06-14T21:05:44Z</time>
+  <name>WP0084</name>
+  <cmt>WP0084</cmt>
+  <desc>WP0084</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.372548319" lon="-81.855806638">
+  <ele>243.200000</ele>
+<time>2007-06-14T21:05:46Z</time>
+  <name>WP0085</name>
+  <cmt>WP0085</cmt>
+  <desc>WP0085</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.371288319" lon="-81.855829972">
+  <ele>244.600000</ele>
+<time>2007-06-14T21:06:03Z</time>
+  <name>WP0086</name>
+  <cmt>WP0086</cmt>
+  <desc>WP0086</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.371166652" lon="-81.855834972">
+  <ele>245.700000</ele>
+<time>2007-06-14T21:06:09Z</time>
+  <name>WP0087</name>
+  <cmt>WP0087</cmt>
+  <desc>WP0087</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.370056652" lon="-81.856359972">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:06:28Z</time>
+  <name>WP0088</name>
+  <cmt>WP0088</cmt>
+  <desc>WP0088</desc>
+  <pdop>1.900000</pdop>
+</wpt>
+<wpt lat="41.368664986" lon="-81.856888305">
+  <ele>243.800000</ele>
+<time>2007-06-14T21:06:39Z</time>
+  <name>WP0089</name>
+  <cmt>WP0089</cmt>
+  <desc>WP0089</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.367359986" lon="-81.856911638">
+  <ele>242.900000</ele>
+<time>2007-06-14T21:06:55Z</time>
+  <name>WP0090</name>
+  <cmt>WP0090</cmt>
+  <desc>WP0090</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.366439986" lon="-81.857233305">
+  <ele>244.200000</ele>
+<time>2007-06-14T21:07:41Z</time>
+  <name>WP0091</name>
+  <cmt>WP0091</cmt>
+  <desc>WP0091</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.366079986" lon="-81.857574972">
+  <ele>244.200000</ele>
+<time>2007-06-14T21:07:45Z</time>
+  <name>WP0092</name>
+  <cmt>WP0092</cmt>
+  <desc>WP0092</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.364571652" lon="-81.859186638">
+  <ele>244.900000</ele>
+<time>2007-06-14T21:08:14Z</time>
+  <name>WP0093</name>
+  <cmt>WP0093</cmt>
+  <desc>WP0093</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</wpt>
+<wpt lat="41.363026652" lon="-81.860771638">
+  <ele>246.200000</ele>
+<time>2007-06-14T21:08:47Z</time>
+  <name>WP0094</name>
+  <cmt>WP0094</cmt>
+  <desc>WP0094</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.362164986" lon="-81.861191638">
+  <ele>246.700000</ele>
+<time>2007-06-14T21:08:54Z</time>
+  <name>WP0095</name>
+  <cmt>WP0095</cmt>
+  <desc>WP0095</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.360991652" lon="-81.861211638">
+  <ele>245.800000</ele>
+<time>2007-06-14T21:09:03Z</time>
+  <name>WP0096</name>
+  <cmt>WP0096</cmt>
+  <desc>WP0096</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.359501652" lon="-81.861079972">
+  <ele>247.800000</ele>
+<time>2007-06-14T21:09:15Z</time>
+  <name>WP0097</name>
+  <cmt>WP0097</cmt>
+  <desc>WP0097</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.358331652" lon="-81.860434972">
+  <ele>248.300000</ele>
+<time>2007-06-14T21:09:25Z</time>
+  <name>WP0098</name>
+  <cmt>WP0098</cmt>
+  <desc>WP0098</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357444986" lon="-81.860011638">
+  <ele>250.600000</ele>
+<time>2007-06-14T21:09:35Z</time>
+  <name>WP0099</name>
+  <cmt>WP0099</cmt>
+  <desc>WP0099</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357416652" lon="-81.860144972">
+  <ele>250.200000</ele>
+<time>2007-06-14T21:09:37Z</time>
+  <name>WP0100</name>
+  <cmt>WP0100</cmt>
+  <desc>WP0100</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357476652" lon="-81.861763305">
+  <ele>250.400000</ele>
+<time>2007-06-14T21:09:54Z</time>
+  <name>WP0101</name>
+  <cmt>WP0101</cmt>
+  <desc>WP0101</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357451652" lon="-81.861999972">
+  <ele>249.600000</ele>
+<time>2007-06-14T21:09:59Z</time>
+  <name>WP0102</name>
+  <cmt>WP0102</cmt>
+  <desc>WP0102</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357358319" lon="-81.862009972">
+  <ele>249.600000</ele>
+<time>2007-06-14T21:10:03Z</time>
+  <name>WP0103</name>
+  <cmt>WP0103</cmt>
+  <desc>WP0103</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<wpt lat="41.357246652" lon="-81.862004972">
+  <ele>251.800000</ele>
+<time>2007-06-14T21:10:10Z</time>
+  <name>WP0104</name>
+  <cmt>WP0104</cmt>
+  <desc>WP0104</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</wpt>
+<trk>
+<trkseg>
+<trkpt lat="41.392621652" lon="-81.868181638">
+  <ele>246.200000</ele>
+<time>2007-06-14T20:51:33Z</time>
+  <course>33.169998</course>
+  <speed>4.167000</speed>
+  <name>WP0001</name>
+  <cmt>WP0001</cmt>
+  <desc>WP0001</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.392729986" lon="-81.868094972">
+  <ele>246.200000</ele>
+<time>2007-06-14T20:51:44Z</time>
+  <course>17.100000</course>
+  <speed>8.776423</speed>
+  <name>WP0002</name>
+  <cmt>WP0002</cmt>
+  <desc>WP0002</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394224986" lon="-81.867326638">
+  <ele>246.700000</ele>
+<time>2007-06-14T20:52:08Z</time>
+  <course>353.149994</course>
+  <speed>3.138111</speed>
+  <name>WP0003</name>
+  <cmt>WP0003</cmt>
+  <desc>WP0003</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394996652" lon="-81.867048305">
+  <ele>242.700000</ele>
+<time>2007-06-14T20:52:21Z</time>
+  <course>302.390015</course>
+  <speed>2.469333</speed>
+  <name>WP0004</name>
+  <cmt>WP0004</cmt>
+  <desc>WP0004</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.395054986" lon="-81.867139972">
+  <ele>242.300000</ele>
+<time>2007-06-14T20:52:25Z</time>
+  <course>255.660004</course>
+  <speed>2.947767</speed>
+  <name>WP0005</name>
+  <cmt>WP0005</cmt>
+  <desc>WP0005</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.395048319" lon="-81.867266638">
+  <ele>242.100000</ele>
+<time>2007-06-14T20:52:29Z</time>
+  <course>189.660004</course>
+  <speed>2.958055</speed>
+  <name>WP0006</name>
+  <cmt>WP0006</cmt>
+  <desc>WP0006</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394953319" lon="-81.867321638">
+  <ele>241.700000</ele>
+<time>2007-06-14T20:52:33Z</time>
+  <course>130.429993</course>
+  <speed>3.174122</speed>
+  <name>WP0007</name>
+  <cmt>WP0007</cmt>
+  <desc>WP0007</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394859986" lon="-81.867238305">
+  <ele>241.100000</ele>
+<time>2007-06-14T20:52:37Z</time>
+  <course>172.639999</course>
+  <speed>4.491100</speed>
+  <name>WP0008</name>
+  <cmt>WP0008</cmt>
+  <desc>WP0008</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394706652" lon="-81.867141638">
+  <ele>241.000000</ele>
+<time>2007-06-14T20:52:42Z</time>
+  <course>197.910004</course>
+  <speed>6.173333</speed>
+  <name>WP0009</name>
+  <cmt>WP0009</cmt>
+  <desc>WP0009</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.394606652" lon="-81.867179972">
+  <ele>241.100000</ele>
+<time>2007-06-14T20:52:44Z</time>
+  <course>197.910004</course>
+  <speed>6.173333</speed>
+  <name>WP0010</name>
+  <cmt>WP0010</cmt>
+  <desc>WP0010</desc>
+  <pdop>1.700000</pdop>
+</trkpt>
+<trkpt lat="41.393508319" lon="-81.867578305">
+  <ele>244.600000</ele>
+<time>2007-06-14T20:53:02Z</time>
+  <course>111.660004</course>
+  <speed>4.902656</speed>
+  <name>WP0011</name>
+  <cmt>WP0011</cmt>
+  <desc>WP0011</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393448319" lon="-81.867418305">
+  <ele>243.800000</ele>
+<time>2007-06-14T20:53:05Z</time>
+  <course>90.739998</course>
+  <speed>6.780378</speed>
+  <name>WP0012</name>
+  <cmt>WP0012</cmt>
+  <desc>WP0012</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393341652" lon="-81.866503305">
+  <ele>242.400000</ele>
+<time>2007-06-14T20:53:17Z</time>
+  <course>121.760002</course>
+  <speed>5.201033</speed>
+  <name>WP0013</name>
+  <cmt>WP0013</cmt>
+  <desc>WP0013</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393273319" lon="-81.865661638">
+  <ele>243.100000</ele>
+<time>2007-06-14T20:53:28Z</time>
+  <course>181.399994</course>
+  <speed>4.480811</speed>
+  <name>WP0014</name>
+  <cmt>WP0014</cmt>
+  <desc>WP0014</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393153319" lon="-81.865633305">
+  <ele>243.300000</ele>
+<time>2007-06-14T20:53:31Z</time>
+  <course>181.399994</course>
+  <speed>4.480811</speed>
+  <name>WP0015</name>
+  <cmt>WP0015</cmt>
+  <desc>WP0015</desc>
+  <pdop>1.700000</pdop>
+</trkpt>
+<trkpt lat="41.391536652" lon="-81.865714972">
+  <ele>244.800000</ele>
+<time>2007-06-14T20:53:55Z</time>
+  <course>205.550003</course>
+  <speed>2.886033</speed>
+  <name>WP0016</name>
+  <cmt>WP0016</cmt>
+  <desc>WP0016</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391199986" lon="-81.865804972">
+  <ele>244.800000</ele>
+<time>2007-06-14T20:54:02Z</time>
+  <course>262.679993</course>
+  <speed>4.341911</speed>
+  <name>WP0017</name>
+  <cmt>WP0017</cmt>
+  <desc>WP0017</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391161652" lon="-81.865956638">
+  <ele>244.700000</ele>
+<time>2007-06-14T20:54:08Z</time>
+  <course>292.100006</course>
+  <speed>5.900678</speed>
+  <name>WP0018</name>
+  <cmt>WP0018</cmt>
+  <desc>WP0018</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391199986" lon="-81.866093305">
+  <ele>244.700000</ele>
+<time>2007-06-14T20:54:10Z</time>
+  <course>272.829987</course>
+  <speed>3.760589</speed>
+  <name>WP0019</name>
+  <cmt>WP0019</cmt>
+  <desc>WP0019</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391324986" lon="-81.867806638">
+  <ele>245.300000</ele>
+<time>2007-06-14T20:54:28Z</time>
+  <course>319.970001</course>
+  <speed>5.211322</speed>
+  <name>WP0020</name>
+  <cmt>WP0020</cmt>
+  <desc>WP0020</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391416652" lon="-81.867973305">
+  <ele>246.000000</ele>
+<time>2007-06-14T20:54:39Z</time>
+  <course>341.359985</course>
+  <speed>7.392567</speed>
+  <name>WP0021</name>
+  <cmt>WP0021</cmt>
+  <desc>WP0021</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391543319" lon="-81.868031638">
+  <ele>246.000000</ele>
+<time>2007-06-14T20:54:41Z</time>
+  <course>356.880005</course>
+  <speed>7.238234</speed>
+  <name>WP0022</name>
+  <cmt>WP0022</cmt>
+  <desc>WP0022</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.392463319" lon="-81.868453305">
+  <ele>246.400000</ele>
+<time>2007-06-14T20:54:53Z</time>
+  <course>29.840000</course>
+  <speed>6.646622</speed>
+  <name>WP0023</name>
+  <cmt>WP0023</cmt>
+  <desc>WP0023</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.392561652" lon="-81.868338305">
+  <ele>246.800000</ele>
+<time>2007-06-14T20:54:55Z</time>
+  <course>58.310001</course>
+  <speed>6.528300</speed>
+  <name>WP0024</name>
+  <cmt>WP0024</cmt>
+  <desc>WP0024</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393493319" lon="-81.867494972">
+  <ele>244.400000</ele>
+<time>2007-06-14T20:55:10Z</time>
+  <course>103.900002</course>
+  <speed>6.749511</speed>
+  <name>WP0025</name>
+  <cmt>WP0025</cmt>
+  <desc>WP0025</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393466652" lon="-81.867333305">
+  <ele>244.100000</ele>
+<time>2007-06-14T20:55:12Z</time>
+  <course>91.360001</course>
+  <speed>7.634356</speed>
+  <name>WP0026</name>
+  <cmt>WP0026</cmt>
+  <desc>WP0026</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393319986" lon="-81.864933305">
+  <ele>244.200000</ele>
+<time>2007-06-14T20:55:36Z</time>
+  <course>118.440002</course>
+  <speed>5.386233</speed>
+  <name>WP0027</name>
+  <cmt>WP0027</cmt>
+  <desc>WP0027</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393258319" lon="-81.864496638">
+  <ele>244.900000</ele>
+<time>2007-06-14T20:55:42Z</time>
+  <course>164.429993</course>
+  <speed>5.031267</speed>
+  <name>WP0028</name>
+  <cmt>WP0028</cmt>
+  <desc>WP0028</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393171652" lon="-81.864463305">
+  <ele>245.100000</ele>
+<time>2007-06-14T20:55:44Z</time>
+  <course>180.899994</course>
+  <speed>7.757822</speed>
+  <name>WP0029</name>
+  <cmt>WP0029</cmt>
+  <desc>WP0029</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391761652" lon="-81.864528305">
+  <ele>246.500000</ele>
+<time>2007-06-14T20:56:06Z</time>
+  <course>74.889999</course>
+  <speed>0.025722</speed>
+  <name>WP0030</name>
+  <cmt>WP0030</cmt>
+  <desc>WP0030</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389968319" lon="-81.864624972">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:56:35Z</time>
+  <course>138.630005</course>
+  <speed>3.966367</speed>
+  <name>WP0031</name>
+  <cmt>WP0031</cmt>
+  <desc>WP0031</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389856652" lon="-81.864549972">
+  <ele>248.700000</ele>
+<time>2007-06-14T20:56:48Z</time>
+  <course>100.309998</course>
+  <speed>5.782356</speed>
+  <name>WP0032</name>
+  <cmt>WP0032</cmt>
+  <desc>WP0032</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389838319" lon="-81.864414972">
+  <ele>248.600000</ele>
+<time>2007-06-14T20:56:50Z</time>
+  <course>77.120003</course>
+  <speed>5.648600</speed>
+  <name>WP0033</name>
+  <cmt>WP0033</cmt>
+  <desc>WP0033</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389861652" lon="-81.863431638">
+  <ele>248.000000</ele>
+<time>2007-06-14T20:57:01Z</time>
+  <course>29.170000</course>
+  <speed>5.468544</speed>
+  <name>WP0034</name>
+  <cmt>WP0034</cmt>
+  <desc>WP0034</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389949986" lon="-81.863368305">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:57:03Z</time>
+  <course>1.860000</course>
+  <speed>6.816389</speed>
+  <name>WP0035</name>
+  <cmt>WP0035</cmt>
+  <desc>WP0035</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.390074986" lon="-81.863359972">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:57:05Z</time>
+  <course>0.570000</course>
+  <speed>8.956478</speed>
+  <name>WP0036</name>
+  <cmt>WP0036</cmt>
+  <desc>WP0036</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.392274986" lon="-81.863281638">
+  <ele>246.600000</ele>
+<time>2007-06-14T20:57:37Z</time>
+  <course>339.779999</course>
+  <speed>4.100122</speed>
+  <name>WP0037</name>
+  <cmt>WP0037</cmt>
+  <desc>WP0037</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393404986" lon="-81.863278305">
+  <ele>246.800000</ele>
+<time>2007-06-14T20:57:59Z</time>
+  <course>250.990005</course>
+  <speed>3.822322</speed>
+  <name>WP0038</name>
+  <cmt>WP0038</cmt>
+  <desc>WP0038</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393399986" lon="-81.863408305">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:02Z</time>
+  <course>240.000000</course>
+  <speed>4.846066</speed>
+  <name>WP0039</name>
+  <cmt>WP0039</cmt>
+  <desc>WP0039</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393334986" lon="-81.863548305">
+  <ele>246.900000</ele>
+<time>2007-06-14T20:58:05Z</time>
+  <course>271.570007</course>
+  <speed>6.260789</speed>
+  <name>WP0040</name>
+  <cmt>WP0040</cmt>
+  <desc>WP0040</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393328319" lon="-81.863691638">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:07Z</time>
+  <course>271.570007</course>
+  <speed>6.260789</speed>
+  <name>WP0041</name>
+  <cmt>WP0041</cmt>
+  <desc>WP0041</desc>
+  <pdop>1.800000</pdop>
+</trkpt>
+<trkpt lat="41.393319986" lon="-81.864543305">
+  <ele>247.000000</ele>
+<time>2007-06-14T20:58:19Z</time>
+  <course>67.680000</course>
+  <speed>3.832611</speed>
+  <name>WP0042</name>
+  <cmt>WP0042</cmt>
+  <desc>WP0042</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393294986" lon="-81.864391638">
+  <ele>246.500000</ele>
+<time>2007-06-14T20:58:24Z</time>
+  <course>131.750000</course>
+  <speed>4.218444</speed>
+  <name>WP0043</name>
+  <cmt>WP0043</cmt>
+  <desc>WP0043</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393216652" lon="-81.863296638">
+  <ele>245.900000</ele>
+<time>2007-06-14T20:58:40Z</time>
+  <course>162.559998</course>
+  <speed>5.432533</speed>
+  <name>WP0044</name>
+  <cmt>WP0044</cmt>
+  <desc>WP0044</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.393116652" lon="-81.863266638">
+  <ele>246.100000</ele>
+<time>2007-06-14T20:58:42Z</time>
+  <course>159.710007</course>
+  <speed>3.117533</speed>
+  <name>WP0045</name>
+  <cmt>WP0045</cmt>
+  <desc>WP0045</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391616652" lon="-81.863301638">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:06Z</time>
+  <course>101.860001</course>
+  <speed>5.772067</speed>
+  <name>WP0046</name>
+  <cmt>WP0046</cmt>
+  <desc>WP0046</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391568319" lon="-81.863126638">
+  <ele>247.700000</ele>
+<time>2007-06-14T20:59:09Z</time>
+  <course>90.440002</course>
+  <speed>6.070445</speed>
+  <name>WP0047</name>
+  <cmt>WP0047</cmt>
+  <desc>WP0047</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391538319" lon="-81.861536638">
+  <ele>248.000000</ele>
+<time>2007-06-14T20:59:26Z</time>
+  <course>18.870001</course>
+  <speed>3.961222</speed>
+  <name>WP0048</name>
+  <cmt>WP0048</cmt>
+  <desc>WP0048</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391626652" lon="-81.861458305">
+  <ele>247.800000</ele>
+<time>2007-06-14T20:59:29Z</time>
+  <course>254.690002</course>
+  <speed>3.256433</speed>
+  <name>WP0049</name>
+  <cmt>WP0049</cmt>
+  <desc>WP0049</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391658319" lon="-81.861584972">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:33Z</time>
+  <course>225.610001</course>
+  <speed>3.601111</speed>
+  <name>WP0050</name>
+  <cmt>WP0050</cmt>
+  <desc>WP0050</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391593319" lon="-81.861681638">
+  <ele>247.400000</ele>
+<time>2007-06-14T20:59:36Z</time>
+  <course>270.339996</course>
+  <speed>4.254456</speed>
+  <name>WP0051</name>
+  <cmt>WP0051</cmt>
+  <desc>WP0051</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391581652" lon="-81.861829972">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:59:39Z</time>
+  <course>247.410004</course>
+  <speed>4.835778</speed>
+  <name>WP0052</name>
+  <cmt>WP0052</cmt>
+  <desc>WP0052</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391546652" lon="-81.862051638">
+  <ele>247.900000</ele>
+<time>2007-06-14T20:59:43Z</time>
+  <course>205.259995</course>
+  <speed>5.098145</speed>
+  <name>WP0053</name>
+  <cmt>WP0053</cmt>
+  <desc>WP0053</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391464986" lon="-81.862103305">
+  <ele>247.900000</ele>
+<time>2007-06-14T20:59:45Z</time>
+  <course>176.789993</course>
+  <speed>5.802933</speed>
+  <name>WP0054</name>
+  <cmt>WP0054</cmt>
+  <desc>WP0054</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.391358319" lon="-81.862101638">
+  <ele>247.600000</ele>
+<time>2007-06-14T20:59:47Z</time>
+  <course>193.119995</course>
+  <speed>0.288089</speed>
+  <name>WP0055</name>
+  <cmt>WP0055</cmt>
+  <desc>WP0055</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.389918319" lon="-81.862173305">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:00:09Z</time>
+  <course>194.660004</course>
+  <speed>6.271078</speed>
+  <name>WP0056</name>
+  <cmt>WP0056</cmt>
+  <desc>WP0056</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.388521652" lon="-81.862258305">
+  <ele>246.600000</ele>
+<time>2007-06-14T21:00:40Z</time>
+  <course>211.009995</course>
+  <speed>7.845278</speed>
+  <name>WP0057</name>
+  <cmt>WP0057</cmt>
+  <desc>WP0057</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.388401652" lon="-81.862359972">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:00:42Z</time>
+  <course>236.589996</course>
+  <speed>0.848833</speed>
+  <name>WP0058</name>
+  <cmt>WP0058</cmt>
+  <desc>WP0058</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.387718319" lon="-81.863428305">
+  <ele>246.200000</ele>
+<time>2007-06-14T21:00:57Z</time>
+  <course>195.279999</course>
+  <speed>4.593989</speed>
+  <name>WP0059</name>
+  <cmt>WP0059</cmt>
+  <desc>WP0059</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.387608319" lon="-81.863494972">
+  <ele>246.700000</ele>
+<time>2007-06-14T21:01:01Z</time>
+  <course>160.039993</course>
+  <speed>6.476856</speed>
+  <name>WP0060</name>
+  <cmt>WP0060</cmt>
+  <desc>WP0060</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.387496652" lon="-81.863441638">
+  <ele>246.600000</ele>
+<time>2007-06-14T21:01:03Z</time>
+  <course>180.509995</course>
+  <speed>14.023756</speed>
+  <name>WP0061</name>
+  <cmt>WP0061</cmt>
+  <desc>WP0061</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.386178319" lon="-81.862879972">
+  <ele>246.400000</ele>
+<time>2007-06-14T21:01:15Z</time>
+  <course>180.509995</course>
+  <speed>14.023756</speed>
+  <name>WP0062</name>
+  <cmt>WP0062</cmt>
+  <desc>WP0062</desc>
+  <pdop>1.800000</pdop>
+</trkpt>
+<trkpt lat="41.383929986" lon="-81.862268305">
+  <ele>247.400000</ele>
+<time>2007-06-14T21:01:33Z</time>
+  <course>149.059998</course>
+  <speed>13.915722</speed>
+  <name>WP0063</name>
+  <cmt>WP0063</cmt>
+  <desc>WP0063</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.382781652" lon="-81.861679972">
+  <ele>245.600000</ele>
+<time>2007-06-14T21:01:43Z</time>
+  <course>139.889999</course>
+  <speed>14.743978</speed>
+  <name>WP0064</name>
+  <cmt>WP0064</cmt>
+  <desc>WP0064</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.381666652" lon="-81.860523305">
+  <ele>242.500000</ele>
+<time>2007-06-14T21:01:54Z</time>
+  <course>144.169998</course>
+  <speed>0.987733</speed>
+  <name>WP0065</name>
+  <cmt>WP0065</cmt>
+  <desc>WP0065</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.380338319" lon="-81.858879972">
+  <ele>238.600000</ele>
+<time>2007-06-14T21:02:13Z</time>
+  <course>171.470001</course>
+  <speed>4.856356</speed>
+  <name>WP0066</name>
+  <cmt>WP0066</cmt>
+  <desc>WP0066</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.380246652" lon="-81.858863305">
+  <ele>240.400000</ele>
+<time>2007-06-14T21:02:36Z</time>
+  <course>208.800003</course>
+  <speed>6.903844</speed>
+  <name>WP0067</name>
+  <cmt>WP0067</cmt>
+  <desc>WP0067</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.380136652" lon="-81.858958305">
+  <ele>240.800000</ele>
+<time>2007-06-14T21:02:38Z</time>
+  <course>233.270004</course>
+  <speed>15.633966</speed>
+  <name>WP0068</name>
+  <cmt>WP0068</cmt>
+  <desc>WP0068</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.379393319" lon="-81.860259972">
+  <ele>245.400000</ele>
+<time>2007-06-14T21:02:48Z</time>
+  <course>232.960007</course>
+  <speed>15.685411</speed>
+  <name>WP0069</name>
+  <cmt>WP0069</cmt>
+  <desc>WP0069</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.377986652" lon="-81.862758305">
+  <ele>242.400000</ele>
+<time>2007-06-14T21:03:04Z</time>
+  <course>215.710007</course>
+  <speed>14.409589</speed>
+  <name>WP0070</name>
+  <cmt>WP0070</cmt>
+  <desc>WP0070</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.377266652" lon="-81.863799972">
+  <ele>240.300000</ele>
+<time>2007-06-14T21:03:12Z</time>
+  <course>205.800003</course>
+  <speed>14.193522</speed>
+  <name>WP0071</name>
+  <cmt>WP0071</cmt>
+  <desc>WP0071</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.377144986" lon="-81.863846638">
+  <ele>240.000000</ele>
+<time>2007-06-14T21:03:13Z</time>
+  <course>173.649994</course>
+  <speed>13.951734</speed>
+  <name>WP0072</name>
+  <cmt>WP0072</cmt>
+  <desc>WP0072</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.376764986" lon="-81.863813305">
+  <ele>239.600000</ele>
+<time>2007-06-14T21:03:16Z</time>
+  <course>155.619995</course>
+  <speed>13.056600</speed>
+  <name>WP0073</name>
+  <cmt>WP0073</cmt>
+  <desc>WP0073</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.376323319" lon="-81.863546638">
+  <ele>240.400000</ele>
+<time>2007-06-14T21:03:20Z</time>
+  <course>144.100006</course>
+  <speed>3.518800</speed>
+  <name>WP0074</name>
+  <cmt>WP0074</cmt>
+  <desc>WP0074</desc>
+  <fix>dgps</fix>
+  <sat>8</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.375844986" lon="-81.863108305">
+  <ele>239.400000</ele>
+<time>2007-06-14T21:03:33Z</time>
+  <course>82.180000</course>
+  <speed>5.319355</speed>
+  <name>WP0075</name>
+  <cmt>WP0075</cmt>
+  <desc>WP0075</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.375864986" lon="-81.862983305">
+  <ele>239.300000</ele>
+<time>2007-06-14T21:03:35Z</time>
+  <course>113.209999</course>
+  <speed>3.518800</speed>
+  <name>WP0076</name>
+  <cmt>WP0076</cmt>
+  <desc>WP0076</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.376391652" lon="-81.861853305">
+  <ele>243.400000</ele>
+<time>2007-06-14T21:03:54Z</time>
+  <course>113.209999</course>
+  <speed>3.518800</speed>
+  <name>WP0077</name>
+  <cmt>WP0077</cmt>
+  <desc>WP0077</desc>
+  <pdop>1.800000</pdop>
+</trkpt>
+<trkpt lat="41.376289986" lon="-81.861748305">
+  <ele>243.700000</ele>
+<time>2007-06-14T21:03:57Z</time>
+  <course>153.050003</course>
+  <speed>9.347456</speed>
+  <name>WP0078</name>
+  <cmt>WP0078</cmt>
+  <desc>WP0078</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.374878319" lon="-81.860854972">
+  <ele>244.900000</ele>
+<time>2007-06-14T21:04:16Z</time>
+  <course>159.259995</course>
+  <speed>5.483978</speed>
+  <name>WP0079</name>
+  <cmt>WP0079</cmt>
+  <desc>WP0079</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.373036652" lon="-81.859659972">
+  <ele>245.200000</ele>
+<time>2007-06-14T21:04:50Z</time>
+  <course>145.800003</course>
+  <speed>2.654533</speed>
+  <name>WP0080</name>
+  <cmt>WP0080</cmt>
+  <desc>WP0080</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.372918319" lon="-81.859576638">
+  <ele>243.600000</ele>
+<time>2007-06-14T21:05:05Z</time>
+  <course>97.610001</course>
+  <speed>3.673133</speed>
+  <name>WP0081</name>
+  <cmt>WP0081</cmt>
+  <desc>WP0081</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.372898319" lon="-81.859449972">
+  <ele>243.400000</ele>
+<time>2007-06-14T21:05:08Z</time>
+  <course>92.180000</course>
+  <speed>11.765345</speed>
+  <name>WP0082</name>
+  <cmt>WP0082</cmt>
+  <desc>WP0082</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.372778319" lon="-81.857021638">
+  <ele>241.700000</ele>
+<time>2007-06-14T21:05:34Z</time>
+  <course>115.980003</course>
+  <speed>7.032455</speed>
+  <name>WP0083</name>
+  <cmt>WP0083</cmt>
+  <desc>WP0083</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.372668319" lon="-81.855843305">
+  <ele>243.100000</ele>
+<time>2007-06-14T21:05:44Z</time>
+  <course>167.539993</course>
+  <speed>6.821533</speed>
+  <name>WP0084</name>
+  <cmt>WP0084</cmt>
+  <desc>WP0084</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.372548319" lon="-81.855806638">
+  <ele>243.200000</ele>
+<time>2007-06-14T21:05:46Z</time>
+  <course>182.190002</course>
+  <speed>5.684611</speed>
+  <name>WP0085</name>
+  <cmt>WP0085</cmt>
+  <desc>WP0085</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.371288319" lon="-81.855829972">
+  <ele>244.600000</ele>
+<time>2007-06-14T21:06:03Z</time>
+  <course>170.470001</course>
+  <speed>0.632767</speed>
+  <name>WP0086</name>
+  <cmt>WP0086</cmt>
+  <desc>WP0086</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.371166652" lon="-81.855834972">
+  <ele>245.700000</ele>
+<time>2007-06-14T21:06:09Z</time>
+  <course>202.910004</course>
+  <speed>14.260400</speed>
+  <name>WP0087</name>
+  <cmt>WP0087</cmt>
+  <desc>WP0087</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.370056652" lon="-81.856359972">
+  <ele>246.500000</ele>
+<time>2007-06-14T21:06:28Z</time>
+  <course>202.910004</course>
+  <speed>14.260400</speed>
+  <name>WP0088</name>
+  <cmt>WP0088</cmt>
+  <desc>WP0088</desc>
+  <pdop>1.900000</pdop>
+</trkpt>
+<trkpt lat="41.368664986" lon="-81.856888305">
+  <ele>243.800000</ele>
+<time>2007-06-14T21:06:39Z</time>
+  <course>192.399994</course>
+  <speed>0.432133</speed>
+  <name>WP0089</name>
+  <cmt>WP0089</cmt>
+  <desc>WP0089</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.367359986" lon="-81.856911638">
+  <ele>242.900000</ele>
+<time>2007-06-14T21:06:55Z</time>
+  <course>203.100006</course>
+  <speed>12.927989</speed>
+  <name>WP0090</name>
+  <cmt>WP0090</cmt>
+  <desc>WP0090</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.366439986" lon="-81.857233305">
+  <ele>244.200000</ele>
+<time>2007-06-14T21:07:41Z</time>
+  <course>218.630005</course>
+  <speed>11.693322</speed>
+  <name>WP0091</name>
+  <cmt>WP0091</cmt>
+  <desc>WP0091</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.366079986" lon="-81.857574972">
+  <ele>244.200000</ele>
+<time>2007-06-14T21:07:45Z</time>
+  <course>187.800003</course>
+  <speed>0.097744</speed>
+  <name>WP0092</name>
+  <cmt>WP0092</cmt>
+  <desc>WP0092</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.364571652" lon="-81.859186638">
+  <ele>244.900000</ele>
+<time>2007-06-14T21:08:14Z</time>
+  <course>214.419998</course>
+  <speed>13.879711</speed>
+  <name>WP0093</name>
+  <cmt>WP0093</cmt>
+  <desc>WP0093</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.100000</pdop>
+</trkpt>
+<trkpt lat="41.363026652" lon="-81.860771638">
+  <ele>246.200000</ele>
+<time>2007-06-14T21:08:47Z</time>
+  <course>194.210007</course>
+  <speed>14.599934</speed>
+  <name>WP0094</name>
+  <cmt>WP0094</cmt>
+  <desc>WP0094</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.362164986" lon="-81.861191638">
+  <ele>246.700000</ele>
+<time>2007-06-14T21:08:54Z</time>
+  <course>177.839996</course>
+  <speed>14.322133</speed>
+  <name>WP0095</name>
+  <cmt>WP0095</cmt>
+  <desc>WP0095</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.360991652" lon="-81.861211638">
+  <ele>245.800000</ele>
+<time>2007-06-14T21:09:03Z</time>
+  <course>166.970001</course>
+  <speed>13.545322</speed>
+  <name>WP0096</name>
+  <cmt>WP0096</cmt>
+  <desc>WP0096</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.359501652" lon="-81.861079972">
+  <ele>247.800000</ele>
+<time>2007-06-14T21:09:15Z</time>
+  <course>156.910004</course>
+  <speed>14.147223</speed>
+  <name>WP0097</name>
+  <cmt>WP0097</cmt>
+  <desc>WP0097</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.358331652" lon="-81.860434972">
+  <ele>248.300000</ele>
+<time>2007-06-14T21:09:25Z</time>
+  <course>177.500000</course>
+  <speed>5.838944</speed>
+  <name>WP0098</name>
+  <cmt>WP0098</cmt>
+  <desc>WP0098</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357444986" lon="-81.860011638">
+  <ele>250.600000</ele>
+<time>2007-06-14T21:09:35Z</time>
+  <course>247.119995</course>
+  <speed>5.170166</speed>
+  <name>WP0099</name>
+  <cmt>WP0099</cmt>
+  <desc>WP0099</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357416652" lon="-81.860144972">
+  <ele>250.200000</ele>
+<time>2007-06-14T21:09:37Z</time>
+  <course>271.980011</course>
+  <speed>6.224778</speed>
+  <name>WP0100</name>
+  <cmt>WP0100</cmt>
+  <desc>WP0100</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357476652" lon="-81.861763305">
+  <ele>250.400000</ele>
+<time>2007-06-14T21:09:54Z</time>
+  <course>234.839996</course>
+  <speed>3.415911</speed>
+  <name>WP0101</name>
+  <cmt>WP0101</cmt>
+  <desc>WP0101</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357451652" lon="-81.861999972">
+  <ele>249.600000</ele>
+<time>2007-06-14T21:09:59Z</time>
+  <course>183.610001</course>
+  <speed>2.489911</speed>
+  <name>WP0102</name>
+  <cmt>WP0102</cmt>
+  <desc>WP0102</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357358319" lon="-81.862009972">
+  <ele>249.600000</ele>
+<time>2007-06-14T21:10:03Z</time>
+  <course>172.300003</course>
+  <speed>1.419867</speed>
+  <name>WP0103</name>
+  <cmt>WP0103</cmt>
+  <desc>WP0103</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+<trkpt lat="41.357246652" lon="-81.862004972">
+  <ele>251.800000</ele>
+<time>2007-06-14T21:10:10Z</time>
+  <course>197.789993</course>
+  <speed>0.036011</speed>
+  <name>WP0104</name>
+  <cmt>WP0104</cmt>
+  <desc>WP0104</desc>
+  <fix>dgps</fix>
+  <sat>9</sat>
+  <pdop>1.200000</pdop>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

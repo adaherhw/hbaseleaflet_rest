@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Style id="trackstyle"> <LineStyle> <color>ffff0000</color> <width>4</width></LineStyle></Style>
+<Style id="camerastyle"><IconStyle><Icon><href>http://www.mytracks4mac.com/kml/shapes/kml_camera.png</href></Icon></IconStyle></Style>
+<Style id="waypointstyle"><IconStyle><Icon><href>http://www.mytracks4mac.com/kml/shapes/kml_pin_yellow2.png</href></Icon><hotSpot x="8" y="5" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Placemark><name>1 Dave Thomas Blvd</name><styleUrl>#waypointstyle</styleUrl>
+<Point><coordinates>-83.104264,40.102491,256</coordinates></Point></Placemark>
+<Placemark><name>2015-09-09 15:46:52</name><styleUrl>#trackstyle</styleUrl>
+<LineString><coordinates>-83.104264,40.102491,256</coordinates></LineString></Placemark>
+</Document></kml>

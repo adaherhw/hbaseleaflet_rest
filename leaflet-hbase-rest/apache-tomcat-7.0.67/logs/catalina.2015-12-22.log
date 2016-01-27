@@ -1,0 +1,456 @@
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 4:08:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 4:08:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:08:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2022 ms
+Dec 22, 2015 4:08:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 4:08:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 4:08:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 4:08:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 1,488 ms
+Dec 22, 2015 4:08:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 1,031 ms
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 201 ms
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 259 ms
+Dec 22, 2015 4:08:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 4:08:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 216 ms
+Dec 22, 2015 4:08:19 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:08:19 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:08:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3513 ms
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:13:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 4:13:26 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 4:13:27 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:13:27 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:13:27 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2923 ms
+Dec 22, 2015 4:13:27 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 4:13:27 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 4:13:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 4:13:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 2,815 ms
+Dec 22, 2015 4:13:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 4:13:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 1,645 ms
+Dec 22, 2015 4:13:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 140 ms
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 162 ms
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 280 ms
+Dec 22, 2015 4:13:32 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:13:32 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:13:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5389 ms
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 4:52:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 4:52:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 4:52:37 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:52:37 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:52:37 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3259 ms
+Dec 22, 2015 4:52:37 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 4:52:37 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 4:52:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war
+Dec 22, 2015 4:52:42 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 22, 2015 4:52:42 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war has finished in 4,986 ms
+Dec 22, 2015 4:52:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 4:52:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 786 ms
+Dec 22, 2015 4:52:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 4,831 ms
+Dec 22, 2015 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 4:52:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 655 ms
+Dec 22, 2015 4:52:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 4:52:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 750 ms
+Dec 22, 2015 4:52:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 4:52:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 499 ms
+Dec 22, 2015 4:52:50 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 4:52:50 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 4:52:50 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 13021 ms
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:11:43 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 11:11:43 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 11:11:44 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:11:44 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:11:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1958 ms
+Dec 22, 2015 11:11:44 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 11:11:44 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 11:11:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war
+Dec 22, 2015 11:11:45 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 22, 2015 11:11:45 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war has finished in 1,283 ms
+Dec 22, 2015 11:11:45 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 11:11:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 490 ms
+Dec 22, 2015 11:11:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 11:11:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 1,715 ms
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 55 ms
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 73 ms
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 72 ms
+Dec 22, 2015 11:11:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:11:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:11:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3892 ms
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:15:55 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 11:15:55 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 11:15:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:15:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:15:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1376 ms
+Dec 22, 2015 11:15:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 11:15:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 11:15:56 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war
+Dec 22, 2015 11:15:57 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 22, 2015 11:15:57 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war has finished in 1,053 ms
+Dec 22, 2015 11:15:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 11:15:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 57 ms
+Dec 22, 2015 11:15:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 591 ms
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 53 ms
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 99 ms
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 49 ms
+Dec 22, 2015 11:15:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:15:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:15:58 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2131 ms
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            2.6.32-504.30.3.el6.x86_64
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_85-mockbuild_2015_07_15_12_57-b00
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/conf/logging.properties
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/endorsed
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/leaflet-hbase-rest/apache-tomcat-7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/leaflet-hbase-rest/apache-tomcat-7.0.67/temp
+Dec 22, 2015 11:18:53 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Dec 22, 2015 11:18:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:18:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 835 ms
+Dec 22, 2015 11:18:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 22, 2015 11:18:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Dec 22, 2015 11:18:53 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war
+Dec 22, 2015 11:18:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 22, 2015 11:18:54 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/leaflet-hbase-rest.war has finished in 736 ms
+Dec 22, 2015 11:18:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager
+Dec 22, 2015 11:18:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/host-manager has finished in 91 ms
+Dec 22, 2015 11:18:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/examples has finished in 459 ms
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/docs has finished in 63 ms
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/manager has finished in 75 ms
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/leaflet-hbase-rest/apache-tomcat-7.0.67/webapps/ROOT has finished in 52 ms
+Dec 22, 2015 11:18:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8086"]
+Dec 22, 2015 11:18:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 22, 2015 11:18:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1597 ms

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html ng-app="carmap">
+
+<head>
+<title>Taxi KML</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src="lib/jquery.min.js"></script>
+<script src="lib/angular.min.js"></script>
+<script src="lib/ui-bootstrap-tpls.min.js"></script>
+<script src="lib/mapbox.js"></script>
+<link rel="stylesheet" href="lib/mapbox.css" />
+<script src="lib/leaflet-omnivore.min.js"></script>
+<link rel="stylesheet" href="lib/bootstrap.min.css">
+<script src="carmap.js"></script>
+<link rel="stylesheet" href="carmap.css" />
+</head>
+
+<body>
+    <div class="container my-container" ng-controller="myController">
+        <div class="span4 input-area">
+            <input type="text" class="input-box" placeholder="input medallion" ng-model="medallion" />
+            <button class="btn btn-primary" ng-click="queryButton(medallion)">Query Trips</button>
+            <div class="message"></div>
+        </div>
+        <div class="result-area">
+            <div class="result-vin">
+                <accordion close-others="false">
+                    <accordion-group ng-repeat="(date, trips) in vinData">
+                        <accordion-heading>
+                            <div class="my-accordion-heading"> {{date}} </div>
+                        </accordion-heading>
+                        <table>
+                            <thead>
+                                <tr> 
+                                    <th ng-repeat="title in tripHeaders">{{title}}</th> 
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="trip in trips"> 
+                                    <td>{{trip["trip:pickup_datetime"]}}</td>
+                                    <td>{{trip["trip:trip_time_in_secs"]}}</td>
+                                    <td>{{trip["trip:trip_distance"]}}</td>
+                                    <td>{{trip["trip:passenger_count"]}}</td>
+                                    <td><img class="view-detail" src="view.png" title='{{trip["trip:pickup_location"]}}' ng-click="showMap(trip)"></td>
+                                    <td><img class="view-detail" src="view.png" title='{{trip["trip:dropoff_location"]}}' ng-click="showMap(trip)"></td>
+                                    <td><img class="view-detail" title="view details" alt="view details" src="view.png" ng-click="showRoute(medallion, trip)"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </accordion-group>
+                </accordion>
+            </div>
+        </div>
+    </div>
+    <script type="text/ng-template" id="modal.html">
+    <div class="modal-body map-window" id="map"> </div>
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2"><Document><Style id="trackstyle"><LineStyle><color>ffff0000</color><width>4</width></LineStyle></Style><Style id="camerastyle"><IconStyle><Icon><href>http://www.mytracks4mac.com/kml/shapes/kml_camera.png</href></Icon></IconStyle></Style><Style id="waypointstyle"><IconStyle><Icon><href>http://www.mytracks4mac.com/kml/shapes/kml_pin_yellow2.png</href></Icon><hotSpot x="8" y="5" xunits="pixels" yunits="pixels"/></IconStyle></Style><Placemark><name>2015-09-10 07:28:06</name><styleUrl>#trackstyle</styleUrl><LineString><coordinates>
+			-83.147018,40.156923,277
+			-83.147071,40.156948,274
+</coordinates></LineString></Placemark></Document></kml>

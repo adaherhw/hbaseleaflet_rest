@@ -1,0 +1,73 @@
+#############################################################################
+Section 0 - Setup Eclipse project, and run sample data selection
+
+- Setup Eclipse (Mars) inside HDP 2.3 image.
+- Import the project into Eclipse
+- Resolve build path issues by creating a user library named "hbase-lib", and add external jar files:
+        + all jar files in /usr/hdp/current/hbase-client/lib/, except ojdbc6.jar
+        + all jar files in /usr/hdp/current/hadoop-client/, except any jars containing "aws" or "azure"
+- Create tomcat (version 7) server inside Eclipse. Use port 8086 (port 8080 is taken by ambari) 
+- Add the project into tomcat server (right click on the tomcat server, and select "add and remove..."
+
+- Run program "taxi.leaflet.SelectData.java" to generate sample data. 
+  This program selects 10 medallions and 100 trips for each of the selected medallions, from the raw file. 
+  All parameters are hard coded. So if you want to generate different sample data, you need to
+  read and modify the program. 
+#############################################################################
+
+
+#############################################################################
+Section 1 - HBase
+
+- Start Hbase shell: 
+        hbase shell
+- Create Hbase table in Hbase shell: 
+        create_namespace 'trip_ns'
+        create 'trip_ns:trip_table', {NAME => 'trip', VERSIONS => 1}, {NAME => 'fare', VERSIONS => 1}
+- If you want to clean the Hbase and the table:
+        disable 'trip_ns:trip_table'
+        drop 'trip_ns:trip_table'
+- In Unix shell, load data into Hbase using Hbase import tool (a mapreduce job).
+  After loading, the Hbase table 'trip_ns:trip_table' will have row key = "medallion:pickup_datetime",
+  and 14 columns (1 column family and 14 qualifiers):
+        mkdir /root/leaflet; cd /root/leaflet; (copy cars.csv to /root/leaflet)
+        awk 'BEGIN {FS=OFS=","} {print $1":"$6,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14}' cars.csv > trip_data_1_key.csv
+        hdfs dfs -mkdir /tripstaging
+        hdfs dfs -copyFromLocal /root/leaflet/trip_data_1_key.csv /tripstaging/
+        hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=, -Dimporttsv.columns=HBASE_ROW_KEY,trip:medallion,trip:hack_license,trip:vendor_id,trip:rate_code,trip:store_and_fwd_flag,trip:pickup_datetime,trip:dropoff_datetime,trip:passenger_count,trip:trip_time_in_secs,trip:trip_distance,trip:pickup_longitude,trip:pickup_latitude,trip:dropoff_longitude,trip:dropoff_latitude trip_ns:trip_table /tripstaging/trip_data_1_key.csv
+- Go back to Eclipse, and run "taxi.leaflet.HBaseInsertDetail.java".
+  This program inserts trip route data (randomly selected from 10 route files) into the table
+  "trip_ns:trip_table", in "trip:detail" column.
+- Still in Eclipse, run "taxi.leaflet.HBaseInsertAggregate.java".
+  This program inserts aggregate information of each medallion. 
+  The row key will be "medallion:" (colon in the end). The column will be "trip:total".
+  The column contains json of all trips of the medallion.
+#############################################################################
+
+#############################################################################
+Section 2 - Front End
+
+- Front End code are in /WebContent folder inside the project.
+  It uses angularJS together with leaflet and mapbox to display the trip location and routes on the map.
+- You need to goto mapbox.com to register and create your own account.
+  Once this is done, you will have your own "access token" and "map id".
+- In carmap.js, change the value of "L.mapbox.accessToken" to your own "access token"
+- In carmap.js, change the second parameter of the function "L.mapbox.map" to your own "map id".
+  There are 2 occurrences of this map id.
+#############################################################################
+
+#############################################################################
+Section 3 - Run the web application
+
+- In Unix, start the Hbase rest server:
+        hbase rest start --infoport 12346 --port 12345
+- In Eclipse, start the tomcat server
+- Goto web browser, enter url:
+        http://sandbox.hortonworks.com:8086/leaflet-map/carmap.html
+- Enter a medallion in the input box, and click query button. The result will be displayed in the accordions.
+  Below are some sample medallions:
+        '171FD91CBF0D6FABF499A9452A4950D5'
+        '0B3D3D51C78E944F68DC04209E86D5F7'
+        'BB8B5987269FE82C5A9CAA78DE6E2F8D'
+
+#############################################################################

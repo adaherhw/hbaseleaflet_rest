@@ -1,0 +1,72 @@
+<!DOCTYPE project>
+<project basedir="." default="build" name="leaflet-hbase-rest">
+    <property environment="env"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <property name="tomcat-home" value="../apache-tomcat-7.0.67"/>
+
+	<path id="tomcat.lib">
+		<fileset dir="${tomcat-home}/lib" includes="*.jar" />
+    </path>
+	<path id="http.client">
+		<fileset dir="WebContent/WEB-INF/lib" includes="*.jar" />
+    </path>
+	<path id="hadoop.client">
+		<fileset dir="/usr/hdp/current/hadoop-client/client" includes="*.jar" />
+		<fileset dir="/usr/hdp/current/hadoop-client/lib" includes="*.jar" />
+		<fileset dir="/usr/hdp/current/hadoop-hdfs-client" includes="*.jar" />
+		<fileset dir="/usr/hdp/current/hadoop-hdfs-client/lib" includes="*.jar" />
+		<fileset dir="/usr/hdp/current/hbase-client/lib" includes="*.jar" />
+    </path>
+    <path id="self.classpath" location="build/classes" />
+	<path id="project.classpath">
+		<path refid="self.classpath" />
+		<path refid="tomcat.lib" />
+		<path refid="http.client" />
+		<path refid="hadoop.client" />
+	</path>
+
+    <target name="init">
+        <mkdir dir="build/classes"/>
+    </target>
+
+	<target name="clean-jar">
+		<delete file="${ant.project.name}.jar" />
+	</target>
+	<target name="clean-war">
+		<delete file="${ant.project.name}.war" />
+		<delete dir="WebContent/WEB-INF/classes" />
+	</target>
+    <target name="clean" depends="clean-jar,clean-war">
+        <delete dir="build/classes"/>
+    </target>
+
+    <target name="compile" depends="init" >
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac includeantruntime="false"
+                srcdir="src" destdir="build/classes" source="${source}" target="${target}" >
+            <classpath refid="project.classpath"/>
+        </javac>
+    </target>
+
+	<target name="jar" depends="compile">
+		<jar destfile="${ant.project.name}.jar" basedir="build/classes" />
+	</target>
+
+	<target name="war" depends="compile">
+		<copy todir="WebContent/WEB-INF/classes">
+			<fileset dir="build/classes" />
+		</copy>
+		<war destfile="${ant.project.name}.war" basedir="WebContent" needxmlfile="false" />
+	</target>
+
+	<target name="build" depends="jar,war" />
+
+	<target name="deploy" depends="war">
+		<delete file="${tomcat-home}/webapps/${ant.project.name}.war" />
+		<sleep seconds="10" />
+		<copy todir="${tomcat-home}/webapps" file="${ant.project.name}.war" />
+		<sleep seconds="10" />
+	</target>
+
+</project>

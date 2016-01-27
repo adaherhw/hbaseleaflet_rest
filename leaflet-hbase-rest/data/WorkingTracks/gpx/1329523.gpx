@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+version="1.1"
+creator="Created by My Tracks on Android."
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+<metadata>
+<name><![CDATA[09/23/2012 1:20pm Old Fitch Rd. north of tracks]]></name>
+<desc><![CDATA[]]></desc>
+</metadata>
+<trk>
+<name><![CDATA[09/23/2012 1:20pm Old Fitch Rd. north of tracks]]></name>
+<desc><![CDATA[]]></desc>
+<extensions><topografix:color>c0c0c0</topografix:color></extensions>
+<trkseg>
+<trkpt lat="41.376432" lon="-81.92175">
+<ele>219</ele>
+<time>2012-09-23T17:20:22.000Z</time>
+</trkpt>
+<trkpt lat="41.37649" lon="-81.921777">
+<ele>213</ele>
+<time>2012-09-23T17:20:23.000Z</time>
+</trkpt>
+<trkpt lat="41.376437" lon="-81.921787">
+<ele>214</ele>
+<time>2012-09-23T17:20:35.000Z</time>
+</trkpt>
+<trkpt lat="41.376391" lon="-81.92179">
+<ele>217</ele>
+<time>2012-09-23T17:20:40.000Z</time>
+</trkpt>
+<trkpt lat="41.376375" lon="-81.921854">
+<ele>217</ele>
+<time>2012-09-23T17:20:59.000Z</time>
+</trkpt>
+<trkpt lat="41.376368" lon="-81.92192">
+<ele>216</ele>
+<time>2012-09-23T17:21:05.000Z</time>
+</trkpt>
+<trkpt lat="41.376347" lon="-81.921973">
+<ele>215</ele>
+<time>2012-09-23T17:21:10.000Z</time>
+</trkpt>
+<trkpt lat="41.376312" lon="-81.922021">
+<ele>215</ele>
+<time>2012-09-23T17:21:15.000Z</time>
+</trkpt>
+<trkpt lat="41.376264" lon="-81.922046">
+<ele>216</ele>
+<time>2012-09-23T17:21:21.000Z</time>
+</trkpt>
+<trkpt lat="41.376217" lon="-81.922064">
+<ele>217</ele>
+<time>2012-09-23T17:21:26.000Z</time>
+</trkpt>
+<trkpt lat="41.376165" lon="-81.922073">
+<ele>217</ele>
+<time>2012-09-23T17:21:31.000Z</time>
+</trkpt>
+<trkpt lat="41.376114" lon="-81.922079">
+<ele>218</ele>
+<time>2012-09-23T17:21:36.000Z</time>
+</trkpt>
+<trkpt lat="41.376059" lon="-81.922089">
+<ele>219</ele>
+<time>2012-09-23T17:21:41.000Z</time>
+</trkpt>
+<trkpt lat="41.376007" lon="-81.922093">
+<ele>220</ele>
+<time>2012-09-23T17:21:46.000Z</time>
+</trkpt>
+<trkpt lat="41.375955" lon="-81.922103">
+<ele>220</ele>
+<time>2012-09-23T17:21:51.000Z</time>
+</trkpt>
+<trkpt lat="41.375905" lon="-81.922099">
+<ele>220</ele>
+<time>2012-09-23T17:21:57.000Z</time>
+</trkpt>
+<trkpt lat="41.375856" lon="-81.922098">
+<ele>220</ele>
+<time>2012-09-23T17:22:03.000Z</time>
+</trkpt>
+<trkpt lat="41.375808" lon="-81.922089">
+<ele>220</ele>
+<time>2012-09-23T17:22:10.000Z</time>
+</trkpt>
+<trkpt lat="41.37576" lon="-81.922096">
+<ele>220</ele>
+<time>2012-09-23T17:22:19.000Z</time>
+</trkpt>
+<trkpt lat="41.375713" lon="-81.922101">
+<ele>219</ele>
+<time>2012-09-23T17:22:24.000Z</time>
+</trkpt>
+<trkpt lat="41.375667" lon="-81.922097">
+<ele>219</ele>
+<time>2012-09-23T17:22:29.000Z</time>
+</trkpt>
+<trkpt lat="41.37562" lon="-81.922103">
+<ele>219</ele>
+<time>2012-09-23T17:22:34.000Z</time>
+</trkpt>
+<trkpt lat="41.375571" lon="-81.922115">
+<ele>219</ele>
+<time>2012-09-23T17:22:39.000Z</time>
+</trkpt>
+<trkpt lat="41.375526" lon="-81.922126">
+<ele>220</ele>
+<time>2012-09-23T17:22:43.000Z</time>
+</trkpt>
+<trkpt lat="41.375578" lon="-81.922113">
+<ele>218</ele>
+<time>2012-09-23T17:23:00.000Z</time>
+</trkpt>
+<trkpt lat="41.375627" lon="-81.922119">
+<ele>217</ele>
+<time>2012-09-23T17:23:04.000Z</time>
+</trkpt>
+<trkpt lat="41.375673" lon="-81.922116">
+<ele>217</ele>
+<time>2012-09-23T17:23:08.000Z</time>
+</trkpt>
+<trkpt lat="41.375724" lon="-81.922117">
+<ele>217</ele>
+<time>2012-09-23T17:23:13.000Z</time>
+</trkpt>
+<trkpt lat="41.375778" lon="-81.922113">
+<ele>216</ele>
+<time>2012-09-23T17:23:18.000Z</time>
+</trkpt>
+<trkpt lat="41.375833" lon="-81.92211">
+<ele>216</ele>
+<time>2012-09-23T17:23:23.000Z</time>
+</trkpt>
+<trkpt lat="41.375887" lon="-81.922107">
+<ele>216</ele>
+<time>2012-09-23T17:23:28.000Z</time>
+</trkpt>
+<trkpt lat="41.375941" lon="-81.922105">
+<ele>216</ele>
+<time>2012-09-23T17:23:33.000Z</time>
+</trkpt>
+<trkpt lat="41.37599" lon="-81.922103">
+<ele>216</ele>
+<time>2012-09-23T17:23:38.000Z</time>
+</trkpt>
+<trkpt lat="41.37604" lon="-81.922097">
+<ele>216</ele>
+<time>2012-09-23T17:23:43.000Z</time>
+</trkpt>
+<trkpt lat="41.376089" lon="-81.922097">
+<ele>216</ele>
+<time>2012-09-23T17:23:48.000Z</time>
+</trkpt>
+<trkpt lat="41.376134" lon="-81.922098">
+<ele>216</ele>
+<time>2012-09-23T17:23:53.000Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

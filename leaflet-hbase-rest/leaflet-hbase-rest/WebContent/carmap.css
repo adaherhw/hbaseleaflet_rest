@@ -1,0 +1,85 @@
+.my-container {
+	background-color: #f5f5f5;
+	padding: 20px;
+	width: 1200px;
+	min-height: 100%;
+}
+
+.input-area {
+	width: 100%;
+}
+
+.input-box {
+	width: 300px;
+	height: 40px;
+	padding-left: 10px;
+}
+
+.result-area {
+	width: 100%;
+	min-height: 80%;
+	padding: 10px;
+	margin-top: 20px;
+	border: 1px solid;
+}
+
+.result-test {
+	display: none;
+}
+
+.result-vin {
+	display: none;
+}
+
+.result-day {
+	display: none;
+}
+
+.result-error {
+	display: none;
+}
+
+.result-loading {
+	display: none;
+}
+
+.view-detail {
+	cursor: pointer;
+}
+table {
+	width: 100%;
+}
+tr {
+	border: 1px solid;
+	border-color: #dddddd;
+}
+th {
+	text-align: center;
+	height: 35px;
+}
+td {
+	text-align: center;
+	height: 25px;
+}
+
+.display-inline {
+	display: inline;
+}
+.trip-tabular {
+/* 	display: none; */
+	margin-top: 20px;
+}
+.trip-graph {
+	margin-top: 20px;
+	height: 400px;
+	border: 1px solid red;
+}
+.trip-graph svg {
+	height: 400px;
+	border: 1px solid red;
+}
+
+.map-window {
+	height: 500px;
+}
+#map { height:500px; width:1000px; }
