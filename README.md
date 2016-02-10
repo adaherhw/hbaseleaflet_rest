@@ -39,22 +39,26 @@ git clone https://github.com/adaherhw/hbaseleaflet_rest.git
 ~/hbaseleaflet/leaflet-hbase-rest/demo.sh
 ```
 #step 1: start hbase in ambari
-## "make sure HBase has been started"
+## Make sure HBase has been started
 
 #step 2: create hbase table, consisting of two Column Families (trip, fare); fare is not being used in these projects (as of now).
-## "creating hbase table"
+## creating hbase table
 ```
 hbase shell -n 
 create_namespace 'trip_ns'
 create 'trip_ns:trip_table', {NAME => 'trip', VERSIONS => 1}, {NAME => 'fare', VERSIONS => 1}
 ```
 
-#step 3: insert into hbase table
+#step 3: insert into hbase table 
+## First remove the header row from file cars_key.csv
 ```
 awk 'BEGIN {FS=OFS=","} {print $1":"$6,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14}' data/cars.csv > car_key.csv
 hdfs dfs -mkdir /tripstaging
 hdfs dfs -put car_key.csv /tripstaging
+```
 
+## Second, ingest cars_key.csv into Hbase trip_table in name space trip_ns; Here schema attributes are define 'on-read', using HBase import Utility.
+```
 hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=, -Dimporttsv.columns=HBASE_ROW_KEY,trip:medallion,trip:hack_license,trip:vendor_id,trip:rate_code,trip:store_and_fwd_flag,trip:pickup_datetime,trip:dropoff_datetime,trip:passenger_count,trip:trip_time_in_secs,trip:trip_distance,trip:pickup_longitude,trip:pickup_latitude,trip:dropoff_longitude,trip:dropoff_latitude trip_ns:trip_table /tripstaging/car_key.csv
 ```
 #step 3.5: build java project to generate jar and war files
