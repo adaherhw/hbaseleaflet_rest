@@ -39,7 +39,7 @@ git clone https://github.com/adaherhw/hbaseleaflet_rest.git
 ~/hbaseleaflet/leaflet-hbase-rest/demo.sh
 ```
 #step 1: start hbase in ambari
-## "make sure HBase is started"
+## "make sure HBase has been started"
 
 #step 2: create hbase table, consisting of two Column Families (trip, fare); fare is not being used in these projects (as of now).
 ## "creating hbase table"
