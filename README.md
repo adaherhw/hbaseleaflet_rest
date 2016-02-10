@@ -61,8 +61,8 @@ hdfs dfs -put car_key.csv /tripstaging
 ```
 hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=, -Dimporttsv.columns=HBASE_ROW_KEY,trip:medallion,trip:hack_license,trip:vendor_id,trip:rate_code,trip:store_and_fwd_flag,trip:pickup_datetime,trip:dropoff_datetime,trip:passenger_count,trip:trip_time_in_secs,trip:trip_distance,trip:pickup_longitude,trip:pickup_latitude,trip:dropoff_longitude,trip:dropoff_latitude trip_ns:trip_table /tripstaging/car_key.csv
 ```
-#step 3.5: build java project to generate jar and war files
-###"building java project"
+#step 4: build java project to generate jar and war files
+###building java project
 ```
 
 ln -s /root/leaflet-hbase-rest/apache-ant-1.9.6/bin/ant /usr/bin/ant
@@ -70,7 +70,7 @@ cd leaflet-hbase-rest
 ant clean build
 cd ..
 ```
-#step 4: insert trip route data and aggregate json in hbase table
+#step 5: insert trip route data and aggregate json in hbase table
 ```
 "insert trip route data and and aggregate json in hbase table"
 java -cp leaflet-hbase-rest/leaflet-hbase-rest.jar:/usr/hdp/current/hadoop-client/hadoop-common.jar:/usr/hdp/current/hadoop-client/hadoop-annotations.jar:/usr/hdp/current/hadoop-client/hadoop-auth.jar:/usr/hdp/current/hadoop-client/lib/*:/usr/hdp/current/hadoop-hdfs-client/hadoop-hdfs.jar:/usr/hdp/current/hbase-client/lib/* taxi.leaflet.HBaseInsertDetail
@@ -99,11 +99,13 @@ start-tomcat.sh
 cp leaflet-hbase-rest/leaflet-hbase-rest.war apache-tomcat-7.0.67/webapps
 ```
 
-goto http://sandbox.hortonworks.com:8086/leaflet-hbase-rest/carmap.html
-goto http://YOUR_OWN_SANBBOX_IP:8086/leaflet-hbase-rest/carmap.html
+goto http://sandbox.hortonworks.com:8086/leaflet-hbase-rest/carmap.html or
+(goto http://YOUR_OWN_SANBBOX_IP:8086/leaflet-hbase-rest/carmap.html)
 
 #step 8: Enter a medallion in the input box, and click query button. The result will be displayed in the accordions.
 Below are some sample medallions:
+```
 171FD91CBF0D6FABF499A9452A4950D5
 0B3D3D51C78E944F68DC04209E86D5F7
-BB8B5987269FE82C5A9CAA78DE6E2F8D"
+BB8B5987269FE82C5A9CAA78DE6E2F8D
+```
